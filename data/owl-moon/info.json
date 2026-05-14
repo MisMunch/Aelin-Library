@@ -1,0 +1,19 @@
+{
+  "id": "owl-moon",
+  "title": "Owl moon",
+  "author": "Yolen, Jane;Schoenherr, John",
+  "description": "",
+  "filename": "Owl Moon - Jane Yolen.pdf",
+  "totalWords": 544,
+  "totalPages": 1,
+  "totalChapters": 1,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 544,
+      "pageCount": 1,
+      "startPage": 1
+    }
+  ]
+}

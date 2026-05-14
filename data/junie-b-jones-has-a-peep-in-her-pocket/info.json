@@ -1,0 +1,96 @@
+{
+  "id": "junie-b-jones-has-a-peep-in-her-pocket",
+  "title": "Junie B. Jones Has a Peep in Her Pocket",
+  "author": "Barbara Park",
+  "description": "",
+  "filename": "Junie B. Jones Has a Peep in Her Pocket - Barbara Park - Junie B. Jones #15.epub",
+  "totalWords": 6444,
+  "totalPages": 7,
+  "totalChapters": 12,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Dedication",
+      "wordCount": 30,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 1 - Confusing Stuff",
+      "wordCount": 758,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 2 - Stubby",
+      "wordCount": 652,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 3 - Pictures",
+      "wordCount": 863,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 4 - Cockle-Doodly-Doo",
+      "wordCount": 799,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 5 - E-I-E-I-O",
+      "wordCount": 625,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 7,
+      "title": "Chapter 6 - Farmer Flores",
+      "wordCount": 1100,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 8,
+      "title": "Chapter 7 - Spike",
+      "wordCount": 824,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 9,
+      "title": "Chapter 8 - Confusion",
+      "wordCount": 257,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 10,
+      "title": "Other Books By This Author",
+      "wordCount": 248,
+      "pageCount": 1,
+      "startPage": 11
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 152,
+      "pageCount": 1,
+      "startPage": 12
+    },
+    {
+      "index": 12,
+      "title": "Copyright",
+      "wordCount": 136,
+      "pageCount": 1,
+      "startPage": 13
+    }
+  ]
+}

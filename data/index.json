@@ -1,3 +1,284 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": "adventures-of-frog-and-toad",
+      "title": "Adventures of Frog and Toad",
+      "author": "Lobel, Arnold",
+      "description": "",
+      "totalWords": 5392,
+      "totalPages": 6,
+      "totalChapters": 2
+    },
+    {
+      "id": "untitled",
+      "title": "Untitled",
+      "author": "User",
+      "description": "",
+      "totalWords": 4832,
+      "totalPages": 5,
+      "totalChapters": 1
+    },
+    {
+      "id": "magic-tree-house-1",
+      "title": "Magic Tree House #1",
+      "author": "Mary Pope Osborne [Osborne, Mary Pope]",
+      "description": "Jack and Annie's very first fantasy adventure in the bestselling middle-grade series--the Magic Tree House! Where did the tree house come from? Before Jack and Annie can find out, the mysterious tree house whisks them to the prehistoric past. Now they have to figure out how to get home. Can they do it before dark . . . or will they become a dinosaur's dinner? Visit the Magic Tree House website! MagicTreeHouse.com From the Trade Paperback edition.",
+      "totalWords": 7466,
+      "totalPages": 8,
+      "totalChapters": 19
+    },
+    {
+      "id": "dolphins-at-daybreak",
+      "title": "Dolphins at Daybreak",
+      "author": "Mary Pope Osborne",
+      "description": "Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series--the Magic Tree House! IT'S SINK OR SWIM for Jack and Annie when the Magic Tree House whisks them off to the middle of the ocean. Luckily, they find a mini-submarine on a coral reef. Unluckily , they are about to meet a giant octopus and one very hungry shark. Will the dolphins save the day? Or are Jack and Annie doomed to be dinner? Visit the Magic Tree House website! MagicTreeHouse.com From the Tra",
+      "totalWords": 6794,
+      "totalPages": 7,
+      "totalChapters": 19
+    },
+    {
+      "id": "dragons-love-tacos",
+      "title": "Dragons Love Tacos",
+      "author": "Adam Rubin",
+      "description": "Dragons love tacos. They love chicken tacos, beef tacos, great big tacos, and teeny tiny tacos. So if you want to lure a bunch of dragons to your party, you should definitely serve tacos. Buckets and buckets of tacos. Unfortunately, where there are tacos, there is also salsa. And if a dragon accidentally eats spicy salsa...oh, boy. You're in red-hot trouble.",
+      "totalWords": 718,
+      "totalPages": 1,
+      "totalChapters": 9
+    },
+    {
+      "id": "mary-pope-osborne-magic-tree-house-10",
+      "title": "Mary Pope Osborne - Magic Tree House 10",
+      "author": "Ghost Town at Sundown",
+      "description": "The saga and success of The Magic Tree House continues! The tenth adventure, Ghost Town at Sundown , is filled with the excitement, action, and fun facts always found in Magic Tree House books. Morgan le Fay has promised to make Jack and Annie masters of the tree house if they can solve four riddles. In Ghost Town at Sundown , the Magic Tree House whisks Jack and Annie back to a ghost town in the Wild West of the 1880s. There, they meet a mustang herder named Slim as they search for the answer t",
+      "totalWords": 8396,
+      "totalPages": 9,
+      "totalChapters": 21
+    },
+    {
+      "id": "joy-the-summer-vacation-fairy",
+      "title": "Joy the Summer Vacation Fairy",
+      "author": "Daisy Meadows",
+      "description": "Joy the Summer Vacation Fairy has her hands full. She's trying to keep Rainspell Island sunny and bright -- but Jack Frost won't make it easy. Full holographic foil cover for extra sparkle! Rainspell Island is the perfect place for a vacation. And Joy the Summer Vacation Fairy is the one who keeps it that way! But when Jack Frost steals three magical shells from the beaches, Joy starts to lose her sparkle. Can Rachel and Kirsty help her bring the magic back to Rainspell Island? Three times the f",
+      "totalWords": 11527,
+      "totalPages": 12,
+      "totalChapters": 18
+    },
+    {
+      "id": "junie-b-jones-and-a-little-monkey-business",
+      "title": "Junie B. Jones and a Little Monkey Business",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 7084,
+      "totalPages": 8,
+      "totalChapters": 13
+    },
+    {
+      "id": "junie-b-jones-and-her-big-fat-mouth",
+      "title": "Junie B. Jones and Her Big Fat Mouth",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6080,
+      "totalPages": 7,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-and-some-sneaky-peeky-spying",
+      "title": "Junie B. Jones and Some Sneaky Peeky Spying",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6104,
+      "totalPages": 7,
+      "totalChapters": 8
+    },
+    {
+      "id": "junie-b-jones-and-that-meanie-jim-s-birthday",
+      "title": "Junie B. Jones and that Meanie Jim's Birthday",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 8561,
+      "totalPages": 9,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-and-the-mushy-gushy-valentime",
+      "title": "Junie B. Jones and the Mushy Gushy Valentime",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6891,
+      "totalPages": 7,
+      "totalChapters": 10
+    },
+    {
+      "id": "junie-b-jones-and-the-stupid-smelly-bus",
+      "title": "Junie B. Jones and the Stupid Smelly Bus",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 7277,
+      "totalPages": 8,
+      "totalChapters": 14
+    },
+    {
+      "id": "junie-b-jones-and-the-yucky-blucky-fruitcake",
+      "title": "Junie B. Jones and the Yucky Blucky Fruitcake",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 7992,
+      "totalPages": 8,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-has-a-monster-under-her-bed",
+      "title": "Junie B. Jones Has a Monster Under Her Bed",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6634,
+      "totalPages": 7,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-has-a-peep-in-her-pocket",
+      "title": "Junie B. Jones Has a Peep in Her Pocket",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6444,
+      "totalPages": 7,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-is-almost-a-flower-girl",
+      "title": "Junie B. Jones Is (almost) a Flower Girl",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6889,
+      "totalPages": 7,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-is-a-beauty-shop-guy",
+      "title": "Junie B. Jones Is a Beauty Shop Guy",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6420,
+      "totalPages": 7,
+      "totalChapters": 13
+    },
+    {
+      "id": "junie-b-jones-is-a-party-animal",
+      "title": "Junie B. Jones Is a Party Animal",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 7038,
+      "totalPages": 8,
+      "totalChapters": 11
+    },
+    {
+      "id": "junie-b-jones-is-captain-field-day",
+      "title": "Junie B. Jones Is Captain Field Day",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6845,
+      "totalPages": 7,
+      "totalChapters": 11
+    },
+    {
+      "id": "junie-b-jones-is-not-a-crook",
+      "title": "Junie B. Jones Is Not a Crook",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6014,
+      "totalPages": 7,
+      "totalChapters": 12
+    },
+    {
+      "id": "junie-b-jones-loves-handsome-warren",
+      "title": "Junie B. Jones Loves Handsome Warren",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6517,
+      "totalPages": 7,
+      "totalChapters": 9
+    },
+    {
+      "id": "junie-b-jones-smells-something-fishy",
+      "title": "Junie B. Jones Smells Something Fishy",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6369,
+      "totalPages": 7,
+      "totalChapters": 14
+    },
+    {
+      "id": "junie-b-first-grader-at-last",
+      "title": "Junie B., First Grader (at last!)",
+      "author": "Barbara Park",
+      "description": "",
+      "totalWords": 6651,
+      "totalPages": 7,
+      "totalChapters": 11
+    },
+    {
+      "id": "midnight-on-the-moon",
+      "title": "Midnight on the Moon",
+      "author": "Mary Pope Osborne",
+      "description": "Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series—the Magic Tree House! Three . . . two . . . one . . . BLAST OFF! The Magic Tree House whisks Jack and Annie off to the moon—and the *future*. Their mission? To find the last \"M\" thing that will free Morgan from the spell. Can they do it before the air in their oxygen tank runs out? Will the mysterious moon man help them? And *why* is Peanut the mouse acting so strange? Visit the Magic Tree House webs",
+      "totalWords": 7874,
+      "totalPages": 8,
+      "totalChapters": 19
+    },
+    {
+      "id": "mummies-in-the-morning",
+      "title": "Mummies in the Morning",
+      "author": "Mary Pope Osborne",
+      "description": "Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series--the Magic Tree House! Jack and Annie don't need another mummy. But that's what they get when the Magic Tree House whisks them back to ancient Egypt. There they meet a long-dead queen who needs their help. Will Jack and Annie be able to solve the puzzle, or will they end up as mummies themselves? Visit the Magic Tree House website! MagicTreeHouse.com From the Trade Paperback edition.",
+      "totalWords": 7277,
+      "totalPages": 8,
+      "totalChapters": 18
+    },
+    {
+      "id": "night-of-the-ninjas",
+      "title": "Night of the Ninjas",
+      "author": "Mary Pope Osborne",
+      "description": "Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series--the Magic Tree House! Have you ever met a real live ninja? Jack and Annie do when the Magic Tree House whisks them back to ancient Japan, where they find themselves in the cave of a ninja master. Will they learn the secrets of the ninja? Or will the evil samurai warriors get them first? Visit the Magic Tree House website! MagicTreeHouse.com From the Trade Paperback edition.",
+      "totalWords": 7042,
+      "totalPages": 8,
+      "totalChapters": 19
+    },
+    {
+      "id": "owl-moon",
+      "title": "Owl moon",
+      "author": "Yolen, Jane;Schoenherr, John",
+      "description": "",
+      "totalWords": 544,
+      "totalPages": 1,
+      "totalChapters": 1
+    },
+    {
+      "id": "pirates-past-noon",
+      "title": "Pirates Past Noon",
+      "author": "Mary Pope Osborne",
+      "description": "Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series--the Magic Tree House! It's a treasure trove of trouble! Jack and Annie are in for a high-seas adventure when the Magic Tree House whisks them back to the days of deserted islands, secret maps--and ruthless pirates! Will they discover a buried treasure? Or will they be forced to walk the plank? Visit the Magic Tree House website! MagicTreeHouse.com From the Trade Paperback edition.",
+      "totalWords": 7190,
+      "totalPages": 8,
+      "totalChapters": 18
+    },
+    {
+      "id": "stellaluna-25th-anniversary-ed",
+      "title": "Stellaluna (25th Anniversary Ed)",
+      "author": "Janell Cannon",
+      "description": "",
+      "totalWords": 1575,
+      "totalPages": 2,
+      "totalChapters": 1
+    },
+    {
+      "id": "the-knight-at-dawn",
+      "title": "The Knight at Dawn",
+      "author": "Mary Pope Osborne",
+      "description": "Jack and Annie are ready for their next fantasy adventure in the bestselling middle-grade series--the Magic Tree House! A Castle with a secret passage! That's what Jack and Annie find when the Magic Tree House whisks them back to the Middle Ages for another wild adventure. In the Great Hall of the castle, a feast is under way. But Jack and Annie aren't exactly welcome guests! Visit the Magic Tree House website! MagicTreeHouse.com From the Trade Paperback edition.",
+      "totalWords": 7274,
+      "totalPages": 8,
+      "totalChapters": 18
+    }
+  ],
+  "updatedAt": "2026-05-14T14:34:41.079Z"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "adventures-of-frog-and-toad",
+  "title": "Adventures of Frog and Toad",
+  "author": "Lobel, Arnold",
+  "description": "",
+  "filename": "Adventures of Frog and Toad - Arnold Lobel.pdf",
+  "totalWords": 5392,
+  "totalPages": 6,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Part 1",
+      "wordCount": 5000,
+      "pageCount": 5,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Part 2",
+      "wordCount": 392,
+      "pageCount": 1,
+      "startPage": 6
+    }
+  ]
+}

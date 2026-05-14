@@ -1,0 +1,110 @@
+{
+  "id": "junie-b-jones-smells-something-fishy",
+  "title": "Junie B. Jones Smells Something Fishy",
+  "author": "Barbara Park",
+  "description": "",
+  "filename": "Junie B. Jones Smells Something Fishy - Barbara Park - Junie B. Jones #12.epub",
+  "totalWords": 6369,
+  "totalPages": 7,
+  "totalChapters": 14,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Dedication",
+      "wordCount": 30,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Table of Contents",
+      "wordCount": 34,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 1 - Pet Day",
+      "wordCount": 697,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 2 - The Secret About Twitter",
+      "wordCount": 487,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 3 - The Boss",
+      "wordCount": 769,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 4 - Ooey Gooey",
+      "wordCount": 612,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 7,
+      "title": "Chapter 5 - Catching Friends",
+      "wordCount": 545,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 8,
+      "title": "Chapter 6 - Sparkle",
+      "wordCount": 805,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 9,
+      "title": "Chapter 7 - Sneaky Grandma Miller",
+      "wordCount": 409,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 10,
+      "title": "Chapter 8 - A Surprise in the Freezer!",
+      "wordCount": 294,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 11,
+      "title": "Chapter 9 - My Proudest Honor",
+      "wordCount": 1189,
+      "pageCount": 2,
+      "startPage": 11
+    },
+    {
+      "index": 12,
+      "title": "Other Books By This Author",
+      "wordCount": 248,
+      "pageCount": 1,
+      "startPage": 13
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 112,
+      "pageCount": 1,
+      "startPage": 14
+    },
+    {
+      "index": 14,
+      "title": "Copyright",
+      "wordCount": 138,
+      "pageCount": 1,
+      "startPage": 15
+    }
+  ]
+}

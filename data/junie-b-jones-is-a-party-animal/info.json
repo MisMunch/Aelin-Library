@@ -1,0 +1,89 @@
+{
+  "id": "junie-b-jones-is-a-party-animal",
+  "title": "Junie B. Jones Is a Party Animal",
+  "author": "Barbara Park",
+  "description": "",
+  "filename": "Junie B. Jones Is a Party Animal - Barbara Park - Junie B. Jones #10.epub",
+  "totalWords": 7038,
+  "totalPages": 8,
+  "totalChapters": 11,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1 - The Richiest Nanna",
+      "wordCount": 658,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2 - Excellent Work of Us",
+      "wordCount": 825,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3 - The Rules",
+      "wordCount": 578,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4 - Packing My Bags",
+      "wordCount": 746,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5 - Going to the Ball",
+      "wordCount": 1234,
+      "pageCount": 2,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6 - Bouncing",
+      "wordCount": 1535,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7 - Peeping",
+      "wordCount": 257,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8 - Morning",
+      "wordCount": 632,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 9,
+      "title": "Other Books By This Author",
+      "wordCount": 248,
+      "pageCount": 1,
+      "startPage": 11
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 198,
+      "pageCount": 1,
+      "startPage": 12
+    },
+    {
+      "index": 11,
+      "title": "Copyright",
+      "wordCount": 127,
+      "pageCount": 1,
+      "startPage": 13
+    }
+  ]
+}

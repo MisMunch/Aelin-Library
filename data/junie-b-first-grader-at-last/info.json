@@ -1,0 +1,89 @@
+{
+  "id": "junie-b-first-grader-at-last",
+  "title": "Junie B., First Grader (at last!)",
+  "author": "Barbara Park",
+  "description": "",
+  "filename": "Junie B., First Grader (at last!) - Barbara Park - Junie B. Jones #18.epub",
+  "totalWords": 6651,
+  "totalPages": 7,
+  "totalChapters": 11,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 261,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 1017,
+      "pageCount": 2,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 688,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 591,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 745,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 769,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 601,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 850,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 909,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 91,
+      "pageCount": 1,
+      "startPage": 11
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 129,
+      "pageCount": 1,
+      "startPage": 12
+    }
+  ]
+}
